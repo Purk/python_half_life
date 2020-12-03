@@ -8,4 +8,4 @@ a p-value for the test stat and the half-life in the same periods as the time se
 ## Required Packages:
 * pandas
 * numpy
-* statsmodels
+* statsmodels.tsa.stattools
